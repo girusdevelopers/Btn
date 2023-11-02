@@ -1,0 +1,149 @@
+.main {
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    align-items: center;
+    background-color: #ffffff;
+    box-shadow: 0px 5px 20px rgba(11, 55, 77, 0.05);
+}
+
+.container {
+    width: 100%;
+}
+
+.main-head {
+    box-shadow: 0px 5px 20px rgba(11, 55, 77, 0.05);
+    padding-bottom: 40px;
+}
+
+.sidecon {
+    display: flex;
+    padding-right: 30px;
+}
+
+.icon1 {
+    padding-bottom: 5px;
+}
+
+.dash p {
+    padding-top: 5px;
+    color: #092a77;
+}
+
+.dash1 p {
+    padding-top: 5px;
+    color: #99abb4;
+}
+
+.country p {
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 20px;
+}
+
+.box {
+    width: 95vw;
+    height: 100vh;
+    margin: 1rem;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+
+}
+
+.blue-box {
+    width: 100%;
+    height: 130px;
+    background-color: #092a77;
+    display: flex;
+    gap: 30px;
+}
+
+.image {
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 70px;
+    height: 120px;
+    width: 120px;
+
+}
+
+.para {
+    color: white;
+    font-size: 18px;
+    margin-top: 70px;
+    margin-left: 50px;
+    font-weight: 500;
+
+}
+
+.horizontal {
+    width: 97%;
+    padding-left: 40px;
+
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    gap: 20px;
+}
+
+.inform {
+    border: 1px solid #092a77;
+    width: 100px;
+    height: 40px;
+    padding-top: 8px;
+    text-align: center;
+    border-radius: 5px;
+    border-bottom: none;
+}
+
+.inform:hover {
+    background-color: #092a77;
+    color: white;
+}
+
+.ride:hover {
+    background-color: #092a77;
+    color: white;
+}
+
+.ride {
+    border: 1px solid #092a77;
+    width: 100px;
+    height: 40px;
+    padding-top: 8px;
+    text-align: center;
+    border-radius: 5px;
+    border-bottom: none;
+}
+.ride1 {
+    border: 1px solid #092a77;
+    width: 160px;
+    height: 40px;
+    padding-top: 8px;
+    text-align: center;
+    border-radius: 5px;
+    padding-left: 2px;
+    border-bottom: none;
+}
+.ride1:hover {
+    background-color: #092a77;
+    color: white;
+}
+.add{
+    border: 1px solid #008000;
+    width: 200px;
+    height: 40px;
+    color: #ffffff;
+    background-color: #008000;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 8px;
+
+}
+.wallet{
+    padding-left: 500px;
+    padding-top: 80px;
+}

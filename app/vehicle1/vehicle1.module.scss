@@ -1,0 +1,129 @@
+.container {
+    font-family: sans-serif;
+    height: 100vh;
+}
+
+.main-page {
+    width: 95vw;
+    height: 800px;
+    margin: 1rem;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+}
+
+.phone {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 20px;
+}
+
+.phone1 {
+    border: 1px solid #F3F3F3;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+    background: #FFFFFF;
+    width: 600px;
+    height: 80px;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-left: 20px;
+    line-height: 2;
+}
+
+.email {
+    border: 1px solid #F3F3F3;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+    background: #FFFFFF;
+    width: 600px;
+    height: 80px;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-left: 20px;
+    line-height: 2;
+}
+
+.status {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 20px;
+}
+
+.stat {
+    border: 1px solid #F3F3F3;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+    background: #FFFFFF;
+    width: 600px;
+    height: 80px;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-left: 20px;
+    line-height: 2;
+}
+
+.creat {
+
+    border: 1px solid #F3F3F3;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+    background: #FFFFFF;
+    width: 600px;
+    height: 80px;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-left: 20px;
+    line-height: 2;
+}
+
+.edit {
+    border: 1px solid #F3F3F3;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+    background: #FFFFFF;
+    width: 600px;
+    height: 80px;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-left: 20px;
+    line-height: 2;
+}
+
+.edited {
+    padding-left: 115px;
+    padding-top: 20px;
+}
+
+.disable {
+    border: 1px solid #008000;
+    width: 170px;
+    padding-left: 20px;
+    height: 30px;
+    background: #008000;
+    color: white;
+}
+
+.disable p {
+    padding-top: 5px;
+
+}
+
+.disa {
+    padding-left: 365px;
+    padding-top: 20px;
+    display: flex;
+    gap: 30px;
+}
+
+
+.edited {
+    display: flex;
+    gap: 30px;
+}
+
+.vehicle{
+    display: flex;
+    gap: 30px;
+    padding-top: 20px;
+    padding-left: 115px;
+}
+.brand{
+    font-weight: 600;
+}

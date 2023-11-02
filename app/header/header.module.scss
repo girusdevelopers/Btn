@@ -1,0 +1,145 @@
+.globe{
+    height: 15px;
+    width: 15px;
+    color: white;
+    padding-right: 40px;
+  padding-top: 5px;
+    
+    
+    
+    margin-left: 800px;
+
+    
+}
+.person{
+    height: 40px;
+    width: 40px;
+    margin-right: 30px;
+}
+.logo1 {
+  display: flex;
+  padding-left: 80px;
+  height: 45px;
+}
+.icon{
+    display: flex;
+  
+    color: white;
+    padding-top: 9px;
+    
+   
+  
+}
+.icon2{
+    padding-top: 10px;
+    
+}
+
+.person {
+  display: flex;
+  margin-left: 10px;
+  border-radius: 20px;
+  height: 30px;
+  width: 30px;
+}
+.select {
+  background-color: #092a77;
+  width: 170px;
+  border: none;
+  height: 40px;
+  font-size: 17px;
+  color: white;
+}
+.logo {
+  display: flex;
+
+  background-color: #092a77;
+  justify-content: space-between;
+  padding: 7px;
+}
+.select{
+    background-color: #092a7750;
+    width: 150px;
+    border: none;
+    height: 30px;
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+
+
+  svg {
+    height: 20px;
+    width: 20px;
+  }
+}
+.sidebar1:hover {
+  background-color:#e7eaf2;
+  color: #092a77;
+  svg {
+    fill: #092a77;
+  }
+}
+.icon2{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 10px;
+}
+.sidebar1{
+    display: flex;
+    color: rgba(255, 255, 255, 0.945);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.136);
+    gap: 10px;
+    padding: 10px;
+    padding-top: 20px;
+    
+   
+    svg{
+        height: 20px;
+        width: 20px;
+    }
+   
+    
+   
+}
+.sidebar1:hover{
+    background-color: #ffffffee;
+    color: #092a77;
+}
+
+
+.sidebar{
+    background-color: #092a77;
+     width: 240px;
+     color: #092a77;
+     font-size: 14px;
+    
+   
+    
+}
+.v {
+  padding-bottom: 100px;
+  padding-left: 80px;
+  padding-top: 20px;
+}
+.btn{
+    width: 240px;
+  background-color: rgba(255, 255, 255, 0.514);
+    color: white;
+    padding: 3px;
+    
+   
+}
+.v{
+    padding-bottom: 100px;
+    padding-left: 80px;
+    padding-top: 20px;
+}
+.br{
+    padding-right: 20px;
+    padding-top: 5px;
+}
+.dropdown-container {
+    display: none;
+    background-color: #262626;
+    padding-left: 8px;
+}
+  

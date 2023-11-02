@@ -1,0 +1,331 @@
+.right1 {
+  height: 500px;
+  background: white;
+  width: 1200px;
+  border-radius: 10px;
+  margin-top: 5px;
+  margin-top: 20px;
+  padding: 20px;
+  box-shadow: 2px 0 6px rgba(0, 0, 0, 0.1);
+}
+.boxe {
+  width: 150px;
+  height: 35px;
+
+  padding: 5px;
+}
+.se {
+  padding: 5px;
+  width: 100px;
+  height: 35px;
+}
+.create {
+  width: 140px;
+  height: 35px;
+  border: 1px solid #ced4da;
+  padding: 5px;
+  border-radius: 5px;
+  color: #092a77;
+}
+.create:hover {
+  width: 140px;
+  height: 35px;
+  border: 1px solid #ced4da;
+  padding: 5px;
+  background: #092a77;
+  border: 1px solid#092a77;
+  border-radius: 5px;
+  color: white;
+}
+
+.user {
+  width: 110px;
+  height: 35px;
+  border: 1px solid #ced4da;
+  background: white;
+  border-radius: 5px;
+}
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search {
+  width: 230px;
+  height: 35px;
+  border: 1px solid #ced4da;
+  padding: 5px;
+  margin-top: 0%;
+  padding-left: 0%;
+  border-radius: 5px;
+}
+.clear {
+  width: 60px;
+  height: 35px;
+  border: 1px solid #ced4da;
+  padding: 5px;
+  background: #092a77;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+.clear:hover {
+  width: 60px;
+  height: 35px;
+  background: #092a77;
+  border: 1px solid#ced4da;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.move {
+  padding-left: 410px;
+  display: flex;
+  gap: 5px;
+}
+.box1 {
+  display: flex;
+  gap: 30px;
+
+  width: 1150px;
+  height: 40px;
+  background: #ffffff;
+}
+
+.for {
+  gap: 70px;
+}
+.table {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 1rem;
+  background-color: transparent;
+}
+
+.tr {
+  margin-top: 30px;
+  border-collapse: collapse;
+  width: 1150px;
+  font-weight: 500;
+  font-size: 15px;
+  padding: 30px;
+  border-radius: 10px;
+
+  border: 1px solid #f8fafd;
+}
+.filled {
+  font-size: 15px;
+
+  height: 60px;
+  background: #f8fafd;
+  padding-left: 5px;
+  border-collapse: collapse;
+}
+
+.for {
+  height: 80px;
+  border: 1px solid #dee2e6;
+  border-color: rgba(155, 155, 155, 0.2);
+  padding-left: 50px;
+  font-size: 12px;
+}
+.for1 {
+  width: 100px;
+  height: 50px;
+  border: 1px solid #dee2e6;
+  border-color: rgba(155, 155, 155, 0.2);
+  padding: 0.75rem;
+}
+.action {
+  display: flex;
+  gap: 25px;
+}
+
+.box {
+  width: 200px;
+  height: 35px;
+  border: 1px solid #ced4da;
+}
+
+.filter {
+  color: white;
+  background: #30befb;
+  border-color: #30befb;
+  cursor: pointer;
+  box-shadow: 0px 2px 8px 0px rgba(48, 190, 251, 0.45);
+  width: 90px;
+  height: 30px;
+}
+.a {
+  display: flex;
+  gap: 100px;
+  margin-top: 40px;
+}
+
+.right {
+  height: 300px;
+
+  width: 400px;
+  padding-left: 100px;
+}
+.side {
+  display: flex;
+  padding-left: 10px;
+  gap: 900px;
+  margin-left: 90px;
+  background: #ffffff;
+  width: 1200px;
+
+  height: 50px;
+  box-shadow: 1px 0 5px rgba(0, 0, 0, 0.1);
+}
+.ionicon {
+  height: 20px;
+  width: 20px;
+  gap: 50px;
+}
+
+.svg {
+  height: 20px;
+  width: 20px;
+  color: #b0b0b0;
+}
+
+.container {
+  font-family: sans-serif;
+  height: 700px;
+  padding-left: 50px;
+  background: white;
+  padding: 40px;
+}
+
+.dashboad {
+  font-size: 23px;
+  padding-top: 10px;
+  font-weight: 600;
+}
+
+.for eye2 {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  color: #23ad33;
+}
+.eye3 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  color: #e20a0a;
+}
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+// .dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.home {
+  height: 30px;
+  width: 78px;
+}
+.home1 {
+  display: flex;
+  padding-top: 15px;
+}
+.tr2:hover {
+  background-color: #f8fafd;
+  border: none;
+}
+.toggle-switch {
+  display: inline-block;
+  position: relative;
+  width: 40px;
+  height: 26px;
+  cursor: pointer;
+  padding-left: 60px;
+}
+
+.toggle-switch input {
+  display: none;
+}
+
+.toggle-switch .slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 4px;
+  bottom: 0;
+  background-color: red;
+  transition: 0.1s;
+  border-radius: 34px;
+}
+
+.toggle-switch input:checked + .slider {
+  background-color: green;
+}
+
+.toggle-switch .slider::before {
+  position: absolute;
+  content: "";
+  height: 20px;
+  width: 21px;
+  left: 4px;
+  right: 4px;
+  bottom: 4px;
+  background-color: white;
+  transition: 0.4s;
+  border-radius: 55%;
+}
+
+.toggle-switch input:checked + .slider::before {
+  transform: translateX(26px);
+}
+.icon-around {
+  width: 30px;
+  height: 30px;
+  background-color: green;
+  border-radius: 100%;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.edit {
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  border-radius: 100%;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.check{
+  width: 20px;
+  height: 20px;
+}
+.search-icon {
+  margin-left: -230px;
+  margin-top: 10px;
+}
+.select{
+  width: 110px;
+  height: 35px;
+}

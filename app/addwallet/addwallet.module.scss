@@ -1,0 +1,61 @@
+.container {
+    font-family: sans-serif;
+    height: 100vh;
+
+}
+.phone{
+    padding-left: 40px;
+}
+
+.main-page {
+    width: 50vw;
+    height: 300px;
+    margin: 1rem;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    margin: 12rem;
+    margin-left: 400px;
+}
+.parah{
+    font-size: 20px;
+    padding-top: 20px;
+}
+.hor{
+    padding-top: 35px;
+}
+.para{
+    font-size: 20px;
+    padding-top: 20px;
+}
+.text{
+    width: 620px;
+    height: 40px;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.hor1{
+    padding-bottom: 20px;
+    width: 600px;
+}
+.button{
+    padding-top: 20px;
+    padding-left: 420px;
+    gap: 10px;
+
+
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    background-color: #092a77;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.add{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px;
+}
