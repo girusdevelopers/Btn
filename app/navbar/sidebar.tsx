@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './sidebar.scss';
+import css from "./sidebar.module.scss"
 import { GiHamburgerMenu } from 'react-icons/gi';
 import { AiOutlineHome,AiFillSetting } from 'react-icons/ai';
 import { TbLayoutDashboard } from 'react-icons/tb';
